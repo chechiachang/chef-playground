@@ -1,0 +1,3 @@
+[submodule "learn.chef.io/inspec/auditd"]
+	path = learn.chef.io/inspec/auditd
+	url = https://github.com/learn-chef/auditd.git
